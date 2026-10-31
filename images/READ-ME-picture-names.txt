@@ -1,0 +1,5 @@
+Put your product pictures in this folder.
+Pictures already included are used by the website automatically.
+These products still use a placeholder drawing until you add a picture with exactly this file name:
+Best picture size: 800 x 600 pixels (4:3), JPG.
+You can also change any picture path in index.html: open it in a text editor and look at the PRODUCT LIST near the top ("image" field).
